@@ -5,7 +5,7 @@ Wie kann man das Flutter Project starten?
 Zum Starten des Projektes begebe ich mich in die Eingabe Aufforderung (CMD) auf meinem Windows Laptop. Danach navigiere ich mich in den Ordner "testprojekt".Danach führe ich den Befehl "flutter run" aus und die Homepage startet.
 
 Git-Branching-Strategie: 
-Ich habe zuerst das Projekt mit einem Initial Commit initalisiert ,danach habe ich den neuen Branch feature/startseite erstellt, sowie Änderungen an der Ordnerstruktur,sowie den enthaltenen Dateien vorgenommen. Ich habe wie in der History zu sehen immer wieder mein Portfolio mit Push Befehlen geupdatet.
+Ich habe zuerst das Projekt mit einem Initial Commit initalisiert ,danach habe ich den neuen Branch feature/startseite erstellt, sowie Änderungen an der Ordnerstruktur,sowie den enthaltenen Dateien vorgenommen ( Hinweis : Die Dart Dateien, welche keinen Code enthalten , wurden nur erstellt sodass die Ordnerstruktur wie gefordert vorhanden ist). Ich habe wie in der History zu sehen immer wieder mein Portfolio mit Push Befehlen geupdatet.
 
 
 
