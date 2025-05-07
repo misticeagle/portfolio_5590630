@@ -7,6 +7,8 @@ Zum Starten des Projektes begebe ich mich in die Eingabe Aufforderung (CMD) auf 
 Git-Branching-Strategie: 
 Ich habe zuerst das Projekt mit einem Initial Commit initalisiert ,danach habe ich den neuen Branch feature/startseite erstellt, sowie Änderungen an der Ordnerstruktur,sowie den enthaltenen Dateien vorgenommen ( Hinweis : Die Dart Dateien, welche keinen Code enthalten , wurden nur erstellt sodass die Ordnerstruktur wie gefordert vorhanden ist). Ich habe wie in der History zu sehen immer wieder mein Portfolio mit Push Befehlen geupdatet.
 
+Name : Michel Schneider
+Email-Adresse : michel.schneider@mnd.thm.de
 
 
 
