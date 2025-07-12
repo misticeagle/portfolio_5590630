@@ -1,9 +1,8 @@
 # Portfolio
-Name : Michel Schneider
-Email-Adresse : michel.schneider@mnd.thm.de
-Studiengang : B.Sc Wirtschafsinformatik
-
-Firebase Website Link: https://portfolio-5590630.web.app
+- Name : Michel Schneider
+- Email-Adresse : michel.schneider@mnd.thm.de
+- Studiengang : B.Sc Wirtschafsinformatik
+- Firebase Website Link: https://portfolio-5590630.web.app
 
 Das Portfolio enthält eine Homepage mit einem Scaffold, mit dem Text: "Willkommen im Portfolio von Michel Schneider". Außerdem eine Ordnerstruktur, die vermutlich für den weiteren Verlauf wichtig ist.  Die Version ist : git version 2.49.0.windows.1  . 
 
@@ -15,14 +14,14 @@ Ich habe zuerst das Projekt mit einem Initial Commit initalisiert ,danach habe i
 
 
 Inhalte & Seitenstruktur :
-Home : Begrüßung & Navigation zu den interaktiven Funktionen 
-Work : Überblick über Projekte ( noch nichts vorhanden)
-About : Persönliche Informationen: Name, E-Mail, Studiengang
-Contact : Kontaktformular mit Validierung und Dialog zur Bestätigung  
-Profile : Bearbeitbares Formular für Name, E-Mail und „Über mich“ 
-Slider : Interaktiver Schieberegler mit Live-Anzeige 
-Settings : Checkboxen und Switches für Optionen wie Newsletter & Dark Mode
-Summary : Zusammenfassung aller Profil- und Einstellungen-Informationen
+- Home : Begrüßung & Navigation zu den interaktiven Funktionen 
+- Work : Überblick über Projekte ( noch nichts vorhanden)
+- About : Persönliche Informationen: Name, E-Mail, Studiengang
+- Contact : Kontaktformular mit Validierung und Dialog zur Bestätigung  
+- Profile : Bearbeitbares Formular für Name, E-Mail und „Über mich“ 
+- Slider : Interaktiver Schieberegler mit Live-Anzeige 
+- Settings : Checkboxen und Switches für Optionen wie Newsletter & Dark Mode
+- Summary : Zusammenfassung aller Profil- und Einstellungen-Informationen
 
 
 
